@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Cp2_listalazy_bruno_sena_gustavo_duarte_deivid_vieira" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

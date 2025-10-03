@@ -9,13 +9,13 @@
 
 ## jogos favoritos
 
-![Lista de jogos favoritos](images/app-1.png)
+![Lista de jogos favoritos](images/app-1.jpg)
 
 
 ---
 
 ## Filtro de jogos por nome do estúdio
 
-![Filtro por botão](images/app-2.png)
+![Filtro por botão](images/app-2.jpg)
 
 ---
